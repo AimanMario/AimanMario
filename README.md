@@ -1,7 +1,7 @@
  Hi, I’m @AimanMario
  I’m interested in coding stuff.
  I’m currently learning HTML.
-
+https://aimanmario.github.io/AimanMario/
 
 <!---
 AimanMario/AimanMario is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
